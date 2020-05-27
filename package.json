@@ -1,5 +1,5 @@
 {
-  "name": "random-string",
+  "name": "Random-String",
   "version": "1.0.0",
   "description": "Generate a random string",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/f-kh/random-string.git"
+    "url": "git+https://github.com/f-kh/Random-String.git"
   },
   "keywords": [
     "rand",
@@ -23,7 +23,7 @@
   "author": "f-kh",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/f-kh/random-string/issues"
+    "url": "https://github.com/f-kh/Random-String/issues"
   },
-  "homepage": "https://github.com/f-kh/random-string#readme"
+  "homepage": "https://github.com/f-kh/Random-String#readme"
 }
