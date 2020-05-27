@@ -1,0 +1,29 @@
+{
+  "name": "random-string",
+  "version": "1.0.0",
+  "description": "Generate a random string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/f-kh/random-string.git"
+  },
+  "keywords": [
+    "rand",
+    "random",
+    "randomize",
+    "string",
+    "str",
+    "text",
+    "generate",
+    "generator"
+  ],
+  "author": "f-kh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/f-kh/random-string/issues"
+  },
+  "homepage": "https://github.com/f-kh/random-string#readme"
+}
