@@ -4,7 +4,7 @@
 
 ## Install
 
-To install random-string, use npm:
+To install Random-String, use npm:
 
 `$ npm install --save f-kh/Random-String`
 
@@ -12,7 +12,7 @@ To install random-string, use npm:
 ## Usage
 
 ```javascript
-var randomString = require('random-string');
+var randomString = require('Random-String');
 
 console.log(randomString(8));
 //=> f0Dy@jO_
